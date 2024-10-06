@@ -3,6 +3,10 @@ This project demonstrates how to build a **RAG** pipeline using private document
 
 The solution involves embedding documents using **Pinecone** and **Groq's** AI accelerators, and integrating these embeddings into a pipeline that retrieves relevant information for a LLM to generate accurate responses.
 
+## Dataset
+The sample data used in this project was sourced from a [Company Documents Dataset](https://www.kaggle.com/datasets/ayoubcherguelaine/company-documents-dataset).
+
+
 
 ## How It Works
 
